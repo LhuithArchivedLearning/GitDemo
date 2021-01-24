@@ -4,4 +4,4 @@ This is a simple readme file
 
 adding more text
 
-bla bla bla bla bla, and also amazing stuff
+I hope noone else is doing stuff here
