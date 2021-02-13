@@ -2,10 +2,8 @@
 
 This is a simple readme file
 
-adding more text
-
-this is gana cause issues
-
-just something going on
+Edit on example branch
 
 now editing on update-readme branch
+
+update localy
